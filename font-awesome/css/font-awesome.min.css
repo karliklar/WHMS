@@ -665,6 +665,7 @@
  .fa-yoast:before{content:"\f2b1"}
  .fa-themeisle:before{content:"\f2b2"}
  .fa-diabetes:before{content: url("../icons/Healthcare-Diabetes-icon.png")}
+ .fa-insulin:before{content: url("../icons/Healthcare-Syringe-icon.png")}
  .fa-google-plus-circle:before,.fa-google-plus-official:before{content:"\f2b3"}
  .fa-fa:before,.fa-font-awesome:before{content:"\f2b4"}
  .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);border:0}
